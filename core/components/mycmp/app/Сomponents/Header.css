@@ -1,0 +1,4 @@
+.actions a:hover {
+    background: -moz-linear-gradient(center bottom , #E0E0E0 0%, #FCFCFC 100%) repeat scroll 0 0 transparent;
+    color: #5B7A98;
+}
